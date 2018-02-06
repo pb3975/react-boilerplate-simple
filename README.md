@@ -1,7 +1,7 @@
 Simple boilerplate code to get a react.js front end up and running. 
 Includes pre-built project-tree, babel, webpack, scss, and dev-server
 
-##To get started:
+## To get started:
 
 ### Make sure you've got [yarn](https://yarnpkg.com/lang/en/docs/install/) or [npm](https://www.npmjs.com/get-npm) installed. 
 
@@ -31,3 +31,4 @@ yarn build
 ```
 npm build
 ```
+### Your dev-server runs on http://localhost:8080/
